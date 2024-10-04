@@ -1,0 +1,434 @@
+[
+  {
+    "title": "Apple AirPods Max Gris",
+    "price": "638,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-035360_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Apple AirPods Max Plata",
+    "price": "633,96 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-035362_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Apple AirPods Max Rosa",
+    "price": "633,96 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-035361_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Razer Barracuda Pro Bluetooth 5.2 Negro",
+    "price": "529,96 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-031958_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Razer Blackshark V2 Pro Blanco",
+    "price": "399,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-018813_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Hifiman Sundara",
+    "price": "348,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-021018_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "HyperX Cloud Orbit S Waves Nx 3D Negro Gris",
+    "price": "329,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-032137_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Razer Hammerhead HyperSpeed Bluetooth 5.2 Blanco",
+    "price": "319,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-031972_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Logitech Zone True BT Wireless Grafito",
+    "price": "309,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-023298_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Asus ROG Delta S Animate",
+    "price": "298,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-018091_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Razer Kraken Kitty V2 Pro Virtual 7.1 Rosa",
+    "price": "290,94 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-031984_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Jabra Engage 65 Mono Negro - Auriculares",
+    "price": "280,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/jabra-engage-65-mono-negro-auriculares-001.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "FiiO FT3 32Ohm",
+    "price": "279,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-029158_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "FiiO FT3",
+    "price": "279,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-029157_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Corsair Virtuoso RGB Wireless XT Gaming - Auriculares",
+    "price": "279,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/corsair-virtuoso-rgb-wireless-xt-gaming-auricualres-001.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Razer Kraken Kitty Negro - Auriculares",
+    "price": "279,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/razer-kraken-kitty-negro-auriculares-001.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Asus ROG Cetra True Wireless SpeedNova RGB Negro",
+    "price": "276,94 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-035006_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Asus ROG Cetra True Wireless SpeedNova RGB Blanco",
+    "price": "276,94 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-035005_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Razer BlackShark V2 Pro Bluetooth 5.2 Negro",
+    "price": "268,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-031966_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Razer Kraken Kitty V2 Pro Virtual 7.1 Negro",
+    "price": "267,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-031965_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Razer Hammerhead True Wireless Chroma RGB",
+    "price": "259,94 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-029658_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Logitech Pro X 2 LightSpeed Wireless Negro",
+    "price": "253,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-036449_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "FiiO FH15 Intrauditivos HiFi Negro",
+    "price": "249,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-029139_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Logitech Zone Wireless Bluetooth Negro",
+    "price": "237,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-036455_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Razer BlackShark V2 Pro Bluetooth 5.2 Blanco",
+    "price": "224,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-031967_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Razer Hammerhead HyperSpeed Bluetooth 5.2 Negro",
+    "price": "223,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-031971_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Asus ROG Theta 7.1 PC / PS4 / Nintendo Switch - Auriculares",
+    "price": "223,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/asus-rog-theta-71-pc-ps4-nintendo-switch-auriculares-001.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Logitech Pro X 2 LightSpeed Wireless Blanco",
+    "price": "219,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-036429_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Razer Kraken V3 Gaming Chroma RGB Envolvente 7.1",
+    "price": "219,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-029660_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "HyperX Cloud Alpha Wireless DTS Negro Rojo",
+    "price": "215,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-032145_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Logitech UC Zone Wireless",
+    "price": "215,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-023272_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Logitech Pro X 2 LightSpeed Wireless Rosa",
+    "price": "214,94 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-036430_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Corsair Virtuoso RGB Wireless 7.1 Blanco - Auriculares",
+    "price": "212,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-009052_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Apple AirPods 3 Blanco",
+    "price": "211,96 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-035444_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Jabra Evolve2 65 HS + Stand MS Stereo - Auriculares",
+    "price": "211,96 €",
+    "img": "https://www.coolmod.com/images/product/normal/jabra-evolve2-65-hs-plus-stand-ms-stereo-auriculares-001.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Razer Kaira Xbox Blanco",
+    "price": "209,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-018807_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Apple AirPods 3 Gen. MagSafe Bluetooth Blanco",
+    "price": "208,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-035558_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Asus ROG Delta S RGB Gaming Virtual 7.1 (PC / Nintendo Switch / Sony PlayStation 5) - Auriculares",
+    "price": "204,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/asus-rog-delta-s-rgb-gaming-virtual-71-pc-nintendo-switch-sony-playstation-5-auriculares-001.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Razer Kraken V3 Pro Inalámbrico Negro",
+    "price": "201,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-031973_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Asus ROG Delta S 7.1 Wireless",
+    "price": "199,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-022403_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Razer Kraken Bluetooth 5.0 Rosa",
+    "price": "199,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-031930_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "HyperX Cloud MIX Wireless Negro Gris",
+    "price": "199,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-032138_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Corsair Virtuoso Pro Carbon",
+    "price": "199,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-027770_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Edifier S3 Negro",
+    "price": "199,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-024075_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Corsair HS80 Max Wireless Blanco",
+    "price": "197,96 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-027520_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Corsair HS80 Max Wireless Carbon",
+    "price": "197,96 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-027519_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Razer Kraken V3 HyperSense Gaming Chroma RGB Envolvente 7.1",
+    "price": "193,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-029659_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Logitech LightSync G935 Gaming Inalámbricos 7.1 Surround - Auriculares",
+    "price": "191,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/logitech-lightsync-g935-gaming-inalambricos-71-surround-auriculares-001.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Razer Barracuda Mercury Bluetooth 5.2 Blanco",
+    "price": "189,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-031937_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Logitech MSFT Zone Wireless - Auriculares",
+    "price": "187,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/logitech-msft-zone-wireless-auriculares-001.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Oppo Enco X2 True Wireless Stereo Bluetooth 5.2 Negro",
+    "price": "176,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-033667_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Jabra PRO 920 Mono - Auriculares",
+    "price": "175,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/jabra-pro-920-mono-auriculares-001.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Razer Kaira Pro Hyperspeed PlayStation License Blanco",
+    "price": "169,94 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-031983_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Razer Kraken Kitty USB 7.1 Rosa",
+    "price": "169,94 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-031942_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Asus ROG Fusion II 500 Gaming Sonido 7.1 Virtual",
+    "price": "168,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-021115_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Jabra Evolve2 65 UC Stereo Black - Auriculares",
+    "price": "167,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/jabra-evolve2-65-uc-stereo-black-auriculares-001.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Plantronics CS540 Negro",
+    "price": "165,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-028996_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Razer Blackshark V2 Pro Negro",
+    "price": "164,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-018799_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "HyperX Cloud MIX Buds l Wireless TWS DTS Negro",
+    "price": "159,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-032147_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Nothing Ear Bluetooth 5.3 Negro",
+    "price": "158,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-035638_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Logitech G Pro X Gaming Wireless",
+    "price": "157,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-023271_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Corsair HS65 Wireless 7.1 Negro",
+    "price": "152,94 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-034654_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Razer Barracuda X Bluetooth 5.2 Rosa",
+    "price": "151,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-031956_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Epos Sennheiser GSP 600 - Auriculares",
+    "price": "151,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/epos-sennheiser-gsp-600-auriculares-001.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Razer BlackSark V2 X Envolvente 7.1 Rosa",
+    "price": "149,96 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-031964_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Poly Voyager Focus 2 Wireless",
+    "price": "144,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-025279_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Razer BlackShark V2 X Spatial 7.1 Verde",
+    "price": "141,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-031953_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Logitech H820e Wireless Headset Dual - Auriculares",
+    "price": "141,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/logitech-h820e-wireless-headset-dual-auriculares-001.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Razer Kraken Kitty V2 Envolvente 7.1 Rosa",
+    "price": "140,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-031969_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Razer Kraken Kitty V2 Envolvente 7.1 Negro",
+    "price": "140,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-031968_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "HyperX CloudX Flight Para Xbox Wireless Negro",
+    "price": "140,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-032131_1.jpg",
+    "type": "AURICULARES"
+  },
+  {
+    "title": "Logitech G535 Gaming Wireless",
+    "price": "136,95 €",
+    "img": "https://www.coolmod.com/images/product/normal/PROD-023293_1.jpg",
+    "type": "AURICULARES"
+  }
+]
